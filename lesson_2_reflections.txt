@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository using git init it makes a new folder called .git
+
+This will start tracking all of your file history/versions. If you don't do this it's not a
+git repository it's just a regular folder. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where you place/hold files that you want to commit. It's different from the working directory 
+because it's a subset of the working directory. It's also a subset of the repository. It allows you to place files that have been updated there and commit some/multiple files at once. 
