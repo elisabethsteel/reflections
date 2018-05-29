@@ -13,3 +13,5 @@ repositories onto your local computer. Branches are just new branches within you
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So you know when you last pushed to your github repository? You know how far ahead you are in your local repository. 
+
+This is a test to see if the order for git push origin master matters vs git push master origin
