@@ -27,3 +27,6 @@ Use git diff to check the differences between staging area and working directory
  What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It combines all the changes that have occurred in each branch together.
 It's represented in the diagram so you can see the parents and also which commits are unreachable.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Manual merging is better because the computer will probably guess wrong.
